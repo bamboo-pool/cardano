@@ -1,0 +1,8 @@
+{
+"name":"Bamboo Pool",
+"ticker":"BAMBO",
+"discordId":"866438213568036915",
+"pool-list":"true",
+"poolMetaData":"https://raw.githubusercontent.com/bamboo-pool/cardano/main/poolMetaData.json",
+"validation":"https://raw.githubusercontent.com/bamboo-pool/cardano/main/sjg-validation.json"
+}
